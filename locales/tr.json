@@ -1,11 +1,11 @@
 {
-    "hello": "Merhaba",
-    "goodbye": "Hoşçakal",
+    "hello": "မင်္ဂလာပါ",
+    "goodbye": "နှုတ်ဆက်ပါတယ်",
     "pageTitles": {
-        "about": "Hakkımda",
-        "resume": "Özgeçmiş",
-        "portfolio": "Portfolyo",
+        "about": "အကြောင်း",
+        "resume": "resume",
+        "portfolio": "ကိုယ်ရေးချက်လက်",
         "blog": "Blog",
-        "contact": "İletişim"
+        "contact": "ဆက်သွယ်ရန်"
     }
 }

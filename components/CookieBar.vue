@@ -1,5 +1,5 @@
 <script setup>
-import { useCookieStore } from '../composables/cookie'
+import { useCookieStore } from '~/composables/cookie'
 
 const cookie = useCookieStore()
 
