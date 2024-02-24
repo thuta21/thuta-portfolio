@@ -1,5 +1,5 @@
-import { createI18n } from 'vue-i18n'
-import { useLocaleStore } from '../composables/locale'
+import { createI18n } from "vue-i18n"
+import { useLocaleStore } from '~/composables/locale'
 
 export default defineNuxtPlugin(() => {
   createI18n({

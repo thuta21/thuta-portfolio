@@ -1,7 +1,7 @@
 <script setup>
 import { useI18n } from 'vue-i18n'
-import Flicking from '@egjs/vue3-flicking'
-import '@egjs/vue3-flicking/dist/flicking.css'
+import * as Flicking from '@egjs/vue3-flicking'
+import'@egjs/vue3-flicking/dist/flicking.css'
 
 useHead({
   title: 'Portfolio',

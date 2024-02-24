@@ -1,6 +1,6 @@
 <script setup>
 import { useI18n } from 'vue-i18n'
-import ServiceItem from "~/components/ServiceItem.vue";
+import * as ServiceItem from "~/components/ServiceItem.vue";
 
 useHead({
 })

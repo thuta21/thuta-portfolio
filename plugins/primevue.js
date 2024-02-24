@@ -1,5 +1,5 @@
-import PrimeVue from 'primevue/config'
-import Button from 'primevue/button'
+import * as PrimeVue from 'primevue/config'
+import * as Button from 'primevue/button'
 import { defineNuxtPlugin } from '#app'
 
 export default defineNuxtPlugin((nuxtApp) => {

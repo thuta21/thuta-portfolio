@@ -70,3 +70,15 @@ A
 	.eslintrc,4/b/4be5f5e3cea171c304090be92469b2f2cb51039a
 =
 pages/404.vue,2/a/2a20c1b8a830baecbfc4be17fcab64cca12f2bdf
+C
+plugins/primevue.js,f/6/f64c7bc2871d1dd3dec01bde211b63856655a396
+?
+plugins/i18n.ts,b/5/b5682e24468dbb309a5d92c44be0589fc2244790
+B
+plugins/cookies.js,8/e/8e3ea35d62405c90b531dc04301e22029780ccaa
+A
+pages/contact.vue,9/9/99c1929b74c13343b962507525c69c900d06eda9
+C
+pages/portfolio.vue,3/e/3ef13596fd0ef722ea83a1c996dc96a98081b552
+C
+assets/js/script.js,5/d/5d7a361506255c5e282f1626e654ab03ddf8c282

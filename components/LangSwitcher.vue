@@ -1,5 +1,5 @@
 <script setup>
-import Dropdown from 'primevue/dropdown'
+import * as Dropdown from 'primevue/dropdown'
 import { useLocaleStore } from '../composables/locale'
 
 const cookieLocale = useLocaleStore()

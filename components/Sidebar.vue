@@ -14,7 +14,7 @@ function toggleMenu() {
       </figure>
 
       <div class="info-content">
-        <h1 class="name" title="Azad Furkan ŞAKAR">
+        <h1 class="name" title="Thuta Min Thway">
           Thuta Min Thway
         </h1>
 
