@@ -10,16 +10,16 @@ function toggleMenu() {
   <aside class="sidebar" :class="{ active: isOpen }">
     <div class="sidebar-info">
       <figure class="avatar-box">
-        <img src="/images/my-avatar.png" alt="Azad Furkan ŞAKAR" width="80">
+        <img src="/images/my-avatar.png" alt="Thuta Min Thway" width="80">
       </figure>
 
       <div class="info-content">
         <h1 class="name" title="Azad Furkan ŞAKAR">
-          Azad Furkan ŞAKAR
+          Thuta Min Thway
         </h1>
 
         <p class="title text-center xl:block flex items-center justify-center gap-1">
-          <span class="xl:after:content-[''] after:content-[',']">Civil Engineer</span>
+          <span class="xl:after:content-[''] after:content-[',']">Software Engineer</span>
           <span>Web developer</span>
         </p>
       </div>
@@ -45,7 +45,7 @@ function toggleMenu() {
               Email
             </p>
 
-            <a href="mailto:info@afsakar.com" class="contact-link">info@afsakar.com</a>
+            <a href="mailto:devthuta642@gmail.com" class="contact-link">devthuta642@gmail.com</a>
           </div>
         </li>
 
@@ -59,7 +59,7 @@ function toggleMenu() {
               Github
             </p>
 
-            <a href="https://github.com/afsakar" class="contact-link" target="_blank">afsakar</a>
+            <a href="https://github.com/thuta21" class="contact-link" target="_blank">thuta21</a>
           </div>
         </li>
 
@@ -73,7 +73,7 @@ function toggleMenu() {
               Linkedin
             </p>
 
-            <a href="https://tr.linkedin.com/in/afsakar" class="contact-link" target="_blank">Azad Furkan ŞAKAR</a>
+            <a href="https://www.linkedin.com/in/thuta-min-thway-72a849226" class="contact-link" target="_blank">Thuta Min Thway</a>
           </div>
         </li>
 
@@ -87,7 +87,7 @@ function toggleMenu() {
               Location
             </p>
 
-            <address>Diyarbakır, Turkey</address>
+            <address>Bangkok, Thailand</address>
           </div>
         </li>
       </ul>
