@@ -90,7 +90,7 @@ const { data: services } = await useFetch('/api/services')
             </h4>
 
             <div class="testimonials-text">
-              <p>{{ locale === 'en' ? testimonial.content?.en : testimonial.content?.tr }}</p>
+              <p>{{ locale === 'en' ? testimonial.content?.en : testimonial.content?.mm }}</p>
             </div>
           </div>
         </li>
@@ -122,7 +122,7 @@ const { data: services } = await useFetch('/api/services')
 
         <div class="flex gap-5 items-start">
           <img class="my-auto hidden md:block" src="/images/icon-quote.svg" alt="quote icon">
-          <p class="text-justify text-gray-400 text-sm md:text-md" v-html="locale === 'en' ? testimonialItem.content?.en : testimonialItem.content?.tr" />
+          <p class="text-justify text-gray-400 text-sm md:text-md" v-html="locale === 'en' ? testimonialItem.content?.en : testimonialItem.content?.mm" />
         </div>
         <div class="mt-2 flex justify-end text-sm text-gray-600 italic">
           Company Co.

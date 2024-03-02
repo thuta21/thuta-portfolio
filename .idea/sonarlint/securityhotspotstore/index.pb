@@ -64,8 +64,6 @@ G
 .vscode/extensions.json,7/c/7cf89ab29dcfeb05af08dbd113b027290e879286
 E
 .vscode/settings.json,8/9/89aa447020cdcb580cea0495694d46a55941edbe
-A
-package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
 9
 	.eslintrc,4/b/4be5f5e3cea171c304090be92469b2f2cb51039a
 =
