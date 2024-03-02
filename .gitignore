@@ -4,4 +4,4 @@ dist
 .output
 .nuxt
 .env
-.idea/sonarlint
+.idea/sonarlint/issuestore

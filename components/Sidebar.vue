@@ -15,7 +15,9 @@ function toggleMenu() {
 
       <div class="info-content">
         <h1 class="name" title="Thuta Min Thway">
-          Thuta Min Thway @ TONY
+          Thuta Min Thway
+          <br>
+           @ TONY
         </h1>
 
         <p class="title text-center xl:block flex items-center justify-center gap-1">
@@ -45,7 +47,7 @@ function toggleMenu() {
               Email
             </p>
 
-            <a href="mailto:devthuta642@gmail.com" class="contact-link">devthuta642@gmail.com</a>
+            <a href="mailto:thutaminthway.dev@gmail.com" class="contact-link">thutaminthway.dev@gmail.com</a>
           </div>
         </li>
 

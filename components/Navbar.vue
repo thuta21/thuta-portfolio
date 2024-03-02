@@ -18,8 +18,8 @@
       </li>
 
       <li class="navbar-item">
-        <NuxtLink to="/portfolio" class="navbar-link">
-          {{ $t('pageTitles.portfolio') }}
+        <NuxtLink to="/project" class="navbar-link">
+          {{ $t('pageTitles.projects') }}
         </NuxtLink>
       </li>
 
