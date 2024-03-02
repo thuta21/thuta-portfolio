@@ -15,7 +15,7 @@ function toggleMenu() {
 
       <div class="info-content">
         <h1 class="name" title="Thuta Min Thway">
-          Thuta Min Thway
+          Thuta Min Thway @ TONY
         </h1>
 
         <p class="title text-center xl:block flex items-center justify-center gap-1">
